@@ -57,6 +57,8 @@ This is a simple user validation webpage built with HTML and JavaScript. The app
 
 `📁 File Structure`
 
+
+
 `project/
 │
 ├── index.html       # Main HTML page
@@ -114,6 +116,8 @@ These ensure that input meets basic constraints.
 `🚀 Example Users`
 
 `You can log in using the following credentials:`
+
+
 
 `Username   Password	First Name    Last Name	 Email	                   Profession
 Qweci	   12345Qay	 Qweci	         Paul	 Qwecipaul@gmail.com	  Computer programmer
