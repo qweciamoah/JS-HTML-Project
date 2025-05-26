@@ -116,7 +116,7 @@ These ensure that input meets basic constraints.
 `You can log in using the following credentials:`
 
 `Username   Password	First Name    Last Name	 Email	                   Profession
-Qweci	   12345Qay	 Qweci	         Paul	 Qwecipaul@mail.com	  Computer programmer
+Qweci	   12345Qay	 Qweci	         Paul	 Qwecipaul@gmail.com	  Computer programmer
 jemima	   12345jay	 jemima	         Amoah	 jemimaAmoah12@gmail.com  Software Engineer`
 
 
