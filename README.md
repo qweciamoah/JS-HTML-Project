@@ -65,7 +65,8 @@ This is a simple user validation webpage built with HTML and JavaScript. The app
 
 `project/`
 
-`│
+`Project Structure`
+│
 ├── index.html       # Main HTML page
 ├── index.js         # JavaScript file with user logic
 └── README.md        # This file`
@@ -131,6 +132,7 @@ These ensure that input meets basic constraints.
 ⸻
 
 `🌱 Possible Improvements`
+
 	•	Add registration functionality to allow new users.
 	•	Store users in local storage or connect to a backend.
 	•	Replace prompt and alert with proper HTML forms and styled UI.
