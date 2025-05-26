@@ -59,7 +59,8 @@ This is a simple user validation webpage built with HTML and JavaScript. The app
 
 
 
-`project/
+`project/`
+`
 │
 ├── index.html       # Main HTML page
 ├── index.js         # JavaScript file with user logic
