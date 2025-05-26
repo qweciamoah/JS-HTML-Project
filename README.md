@@ -11,6 +11,7 @@ This is a simple user validation webpage built with HTML and JavaScript. The app
 ⸻
 
 `📄 Table of Contents`
+
 	•	Features
 	•	How It Works
 	•	Technologies Used
@@ -22,6 +23,7 @@ This is a simple user validation webpage built with HTML and JavaScript. The app
 ⸻
 
 `✅ Features`
+
 	•	Prompts the user for:
 	•	Username
 	•	Password
@@ -37,6 +39,7 @@ This is a simple user validation webpage built with HTML and JavaScript. The app
 ⸻
 
 `💡 How It Works`
+
 	1.	When the webpage loads, it displays an alert: Welcome!
 	2.	The getUserDetails() function is triggered to collect and validate user credentials.
 	3.	The function:
@@ -49,6 +52,7 @@ This is a simple user validation webpage built with HTML and JavaScript. The app
 ⸻
 
 `🧰 Technologies Used`
+
 	•	HTML5 for the webpage structure.
 	•	Vanilla JavaScript for logic and user interaction.
 	•	Browser prompts and alerts for user input/output.
@@ -60,10 +64,11 @@ This is a simple user validation webpage built with HTML and JavaScript. The app
 
 
 `project/`
-│
+
+`│
 ├── index.html       # Main HTML page
 ├── index.js         # JavaScript file with user logic
-└── README.md        # This file
+└── README.md        # This file`
 
 ⸻
 
