@@ -77,6 +77,7 @@ This is a simple user validation webpage built with HTML and JavaScript. The app
 ⸻
 
 `🛠️ Setup Instructions`
+
 To run this project:
 
 	1.	Clone or download the repository.
