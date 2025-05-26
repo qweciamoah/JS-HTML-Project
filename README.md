@@ -77,13 +77,13 @@ This is a simple user validation webpage built with HTML and JavaScript. The app
 ⸻
 
 `🛠️ Setup Instructions`
+To run this project:
 
-`To run this project:
 	1.	Clone or download the repository.
 	2.	Open the index.html file in a web browser.
-	3.	Follow the prompts that appear on your screen.`
+	3.	Follow the prompts that appear on your screen.
 
-`No additional setup or dependencies are required.`
+No additional setup or dependencies are required.
 
 ⸻
 
