@@ -10,18 +10,18 @@ This is a simple user validation webpage built with HTML and JavaScript. The app
 
 ⸻
 
-`📄 Table of Contents
+`📄 Table of Contents`
 	•	Features
 	•	How It Works
 	•	Technologies Used
 	•	File Structure
 	•	Setup Instructions
 	•	Code Walkthrough
-	•	Improvements`
+	•	Improvements
 
 ⸻
 
-`✅ Features
+`✅ Features`
 	•	Prompts the user for:
 	•	Username
 	•	Password
@@ -32,7 +32,7 @@ This is a simple user validation webpage built with HTML and JavaScript. The app
 	•	Matching password confirmation
 	•	Checks the credentials against a static userStore object.
 	•	Displays the user’s first name, last name, email, and profession if the login is successful.
-	•	Shows appropriate alerts for invalid input or login failure.`
+	•	Shows appropriate alerts for invalid input or login failure.
 
 ⸻
 
@@ -48,7 +48,7 @@ This is a simple user validation webpage built with HTML and JavaScript. The app
 
 ⸻
 
-🧰 Technologies Used
+`🧰 Technologies Used`
 	•	HTML5 for the webpage structure.
 	•	Vanilla JavaScript for logic and user interaction.
 	•	Browser prompts and alerts for user input/output.
@@ -118,12 +118,12 @@ These ensure that input meets basic constraints.
 
 `You can log in using the following credentials:`
 
+` User Credentials Table`
 
-
-`Username   Password	First Name    Last Name	 Email	                   Profession
-Qweci	   12345Qay	 Qweci	         Paul	 Qwecipaul@gmail.com	  Computer programmer
-jemima	   12345jay	 jemima	         Amoah	 jemimaAmoah12@gmail.com  Software Engineer`
-
+| Username | Password   | First Name | Last Name | Email                     | Profession           |
+|----------|------------|------------|-----------|---------------------------|----------------------|
+| Qweci    | 12345Qay   | Qweci      | Paul      | Qwecipaul@gmail.com       | Computer programmer  |
+| jemima   | 12345jay   | jemima     | Amoah     | jemimaAmoah12@gmail.com   | Software Engineer    
 
 ⸻
 
