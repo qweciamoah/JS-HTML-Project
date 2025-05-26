@@ -68,11 +68,11 @@ This is a simple user validation webpage built with HTML and JavaScript. The app
 `Project Structure`
 
 
-├── index.html       # Main HTML page
+├── index.html         # Main HTML page
 
-├── index.js         # JavaScript file with user logic
+├── index.js           # JavaScript file with user logic
 
-└── README.md        # This file
+└── README.md          # This file
 
 ⸻
 
